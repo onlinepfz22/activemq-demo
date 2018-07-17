@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq-client/activemq-client.iml" filepath="$PROJECT_DIR$/activemq-client/activemq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-domain/activemq-domain.iml" filepath="$PROJECT_DIR$/activemq-domain/activemq-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-service/activemq-service.iml" filepath="$PROJECT_DIR$/activemq-service/activemq-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwl-activemq.iml" filepath="$PROJECT_DIR$/lwl-activemq.iml" />
+    </modules>
+  </component>
+</project>
