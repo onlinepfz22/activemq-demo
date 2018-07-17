@@ -27,6 +27,7 @@ public class NewsPushServiceImpl implements PushService {
 	
 	@Override
 	public void push(final Object info) {
+
 		pushExecutor.execute(new Runnable() {
 			@Override
 			public void run() {
